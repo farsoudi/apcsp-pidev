@@ -7,5 +7,3 @@ int main()
 	printf("APCSP\n");
 	return 0;
 }
-
-
